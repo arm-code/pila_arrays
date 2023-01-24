@@ -1,0 +1,15 @@
+/Users/arm/Desktop/StackArray/bin/Debug/net6.0/StackArray
+/Users/arm/Desktop/StackArray/bin/Debug/net6.0/StackArray.deps.json
+/Users/arm/Desktop/StackArray/bin/Debug/net6.0/StackArray.runtimeconfig.json
+/Users/arm/Desktop/StackArray/bin/Debug/net6.0/StackArray.dll
+/Users/arm/Desktop/StackArray/bin/Debug/net6.0/StackArray.pdb
+/Users/arm/Desktop/StackArray/obj/Debug/net6.0/StackArray.csproj.AssemblyReference.cache
+/Users/arm/Desktop/StackArray/obj/Debug/net6.0/StackArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arm/Desktop/StackArray/obj/Debug/net6.0/StackArray.AssemblyInfoInputs.cache
+/Users/arm/Desktop/StackArray/obj/Debug/net6.0/StackArray.AssemblyInfo.cs
+/Users/arm/Desktop/StackArray/obj/Debug/net6.0/StackArray.csproj.CoreCompileInputs.cache
+/Users/arm/Desktop/StackArray/obj/Debug/net6.0/StackArray.dll
+/Users/arm/Desktop/StackArray/obj/Debug/net6.0/refint/StackArray.dll
+/Users/arm/Desktop/StackArray/obj/Debug/net6.0/StackArray.pdb
+/Users/arm/Desktop/StackArray/obj/Debug/net6.0/StackArray.genruntimeconfig.cache
+/Users/arm/Desktop/StackArray/obj/Debug/net6.0/ref/StackArray.dll
